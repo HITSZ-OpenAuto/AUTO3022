@@ -1,14 +1,14 @@
 # AUTO3022 - 自动化领域专家系列讲座
 
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分(21级)](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![学分(21级)](https://img.shields.io/badge/%E5%AD%A6%E5%88%86(21级)-2-moccasin)
 ![学分(22级)](https://img.shields.io/badge/%E5%AD%A6%E5%88%86(22级)-1.5-moccasin)
 
 ![总学时32(21级)](https://img.shields.io/badge/总学时(21级)-32-gold)
 ![总学时24(22级)](https://img.shields.io/badge/总学时(22级)-24-gold)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![报告unknown%](https://img.shields.io/badge/报告-unknown%25-wheat)
+![报告100%](https://img.shields.io/badge/报告-100%25-wheat)
 
 
 ## 课程基本信息
