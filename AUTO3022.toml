@@ -1,0 +1,140 @@
+course_name = "自动化领域专家系列讲座"
+course_code = "AUTO3022"
+notices = ""
+
+[[lecturers]]
+name = "楼云江"
+  [[lecturers.reviews]]
+  content = "讲座主题：移动操作机器人关键技术"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "吴爱国"
+  [[lecturers.reviews]]
+  content = "讲座主题：From matrix equations to conjugate product"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "张宏伟"
+  [[lecturers.reviews]]
+  content = "讲座主题：多智能体协调控制之魅力：揭秘大自然中的群体现象"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "许鋆"
+  [[lecturers.reviews]]
+  content = "讲座主题：Intelligent optimization"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "谢晓晨"
+  [[lecturers.reviews]]
+  content = "讲座主题：周期系统的控制与应用"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "吴晓军"
+  [[lecturers.reviews]]
+  content = "讲座主题：基于深度学习的多目立体视觉（MVS）场景重建"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "熊昊"
+  [[lecturers.reviews]]
+  content = """
+讲座主题：强化学习在机器人中的应用
+备注：实际上几乎开成组会了
+"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "熊小刚"
+  [[lecturers.reviews]]
+  content = "讲座主题：机器人学习控制"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "李衍杰"
+  [[lecturers.reviews]]
+  content = "讲座主题：从阿拉法狗（AlphaGo）谈强化学习"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "王雁"
+  [[lecturers.reviews]]
+  content = "讲座主题：互联系统最优控制与估计及其应用"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "苗子博"
+  [[lecturers.reviews]]
+  content = "讲座主题：量子控制导论"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "董广忠"
+  [[lecturers.reviews]]
+  content = "讲座主题：动力电池建模、估计与优化控制"
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "李芃"
+  [[lecturers.reviews]]
+  content = """
+讲座主题：Non-asymptotic Estimation and its Practical Applications
+备注：22 级不再开设
+"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "李建刚"
+  [[lecturers.reviews]]
+  content = """
+讲座主题：数控机床技术发展
+备注：22 级不再开设
+"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "隆志力"
+  [[lecturers.reviews]]
+  content = """
+讲座主题：功率超声系统控制方法
+备注：22 级不再开设
+"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[lecturers]]
+name = "黄瑞宁"
+  [[lecturers.reviews]]
+  content = """
+讲座主题：电火花加工关键技术
+备注：22 级不再开设
+"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+textbooks = []
+online_resources = []
+
+[[course]]
+content = """
+自动化全明星课，每个老师讲一次课。
+曾经开设于大四秋季学期；曾用名自动化前沿专题。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+[[exam]]
+content = """
+期末有报告，没有考试。成绩构成为报告100%。
+在 materials 文件夹下给出了修正格式的模板。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+advice = []
+
+[[schedule]]
+content = "截至 2025 春季学期的讲座标题及主讲人见“授课教师”板块。"
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
+
+related_links = []
+misc = []
