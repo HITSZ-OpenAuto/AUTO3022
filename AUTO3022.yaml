@@ -1,0 +1,133 @@
+# 备注：所有信息由同一位提交者提供，内容截至 2025 年春季学期。
+course_name: "自动化领域专家系列讲座"
+course_code: "AUTO3022"
+notices: "期末有报告，没有考试。在 materials 文件夹下给出了修正格式的模板。"
+grading:
+  "0000": "报告100%"
+teachers:
+  - name: "楼云江"
+    reviews:
+      - content: "讲座主题：移动操作机器人关键技术"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "吴爱国"
+    reviews:
+      - content: "讲座主题：From matrix equations to conjugate product"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "张宏伟"
+    reviews:
+      - content: "讲座主题：多智能体协调控制之魅力：揭秘大自然中的群体现象"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "许鋆"
+    reviews:
+      - content: "讲座主题：Intelligent optimization"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "谢晓晨"
+    reviews:
+      - content: "讲座主题：周期系统的控制与应用"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "吴晓军"
+    reviews:
+      - content: "讲座主题：基于深度学习的多目立体视觉（MVS）场景重建"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "熊昊"
+    reviews:
+      - content: |
+          讲座主题：强化学习在机器人中的应用
+          备注：实际上几乎开成组会了
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "熊小刚"
+    reviews:
+      - content: "讲座主题：机器人学习控制"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "李衍杰"
+    reviews:
+      - content: "讲座主题：从阿拉法狗（AlphaGo）谈强化学习"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "王雁"
+    reviews:
+      - content: "讲座主题：互联系统最优控制与估计及其应用"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "苗子博"
+    reviews:
+      - content: "讲座主题：量子控制导论"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "董广忠"
+    reviews:
+      - content: "讲座主题：动力电池建模、估计与优化控制"
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "李芃"
+    reviews:
+      - content: |
+          讲座主题：Non-asymptotic Estimation and its Practical Applications
+          备注：22 级不再开设
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "李建刚"
+    reviews:
+      - content: |
+          讲座主题：数控机床技术发展
+          备注：22 级不再开设
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "隆志力"
+    reviews:
+      - content: |
+          讲座主题：功率超声系统控制方法
+          备注：22 级不再开设
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+  - name: "黄瑞宁"
+    reviews:
+      - content: |
+          讲座主题：电火花加工关键技术
+          备注：22 级不再开设
+        submitter:
+          name: "Oliver Wu"
+          link: "https://www.github.com/OliverWu515"
+textbooks: []
+online_resources: []
+about_course:
+  - content: "自动化全明星课，每个老师讲一次课。"
+    submitter:
+      name: "Oliver Wu"
+      link: "https://www.github.com/OliverWu515"
+  - content: "曾经开设于大四秋季学期；曾用名自动化前沿专题。"
+    submitter:
+      name: "Oliver Wu"
+      link: "https://www.github.com/OliverWu515"
+about_exam:
+  - content: "期末有报告，没有考试。"
+    submitter:
+      name: "Oliver Wu"
+      link: "https://www.github.com/OliverWu515"
+study_advice: []
+schedule: []
+related_links: []
+misc: []
