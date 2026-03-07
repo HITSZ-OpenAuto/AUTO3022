@@ -1,4 +1,6 @@
 # AUTO3022 - 自动化领域专家系列讲座
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![报告100%](https://img.shields.io/badge/报告-100%25-wheat)
@@ -10,10 +12,14 @@
 ## 授课教师
 
 - 熊昊
+  <!-- TOML-ITEM: id="review-熊昊-1" -->
   - 实际上几乎开成组会了
     > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
 
 ## 课程安排
+<!-- TOML-SECTION: title="课程安排" -->
+
+<!-- TOML-ITEM: id="item-课程安排-1" -->
 
 截至 2025 春季学期的讲座标题及主讲：
 
