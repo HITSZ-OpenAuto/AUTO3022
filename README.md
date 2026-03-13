@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 熊昊
   <!-- TOML-ITEM: id="review-熊昊-1" -->
   - 实际上几乎开成组会了

@@ -1,17 +1,18 @@
 course_name = "自动化领域专家系列讲座"
-repo_type = "normal"
 course_code = "AUTO3022"
-
+repo_type = "normal"
 description = """
 - 自动化全明星课，每个老师讲一次课。
 - 曾经开设于大四秋季学期；曾用名自动化前沿专题。
 - 期末有报告，没有考试。在 materials 文件夹下给出了修正格式的模板。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "熊昊"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "实际上几乎开成组会了"
 author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01" }
 
