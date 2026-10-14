@@ -1,9 +1,5 @@
 # AUTO3022 - 自动化领域专家系列讲座
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![报告100%](https://img.shields.io/badge/报告-100%25-wheat)
 
 - 自动化全明星课，每个老师讲一次课。
 - 曾经开设于大四秋季学期；曾用名自动化前沿专题。
