@@ -1,0 +1,47 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814132,
+    "hash": "a1c147ca8c38fc07a10ca1d734b1612c2945561d"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086077,
+    "hash": "c3b6c307146cd88121fef72a9c42f609495cfb38"
+  },
+  "README.md": {
+    "size": 1907,
+    "time": 1791961262,
+    "hash": "308126d7481a07cfd5b23a481a5d605526983f71"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737628193,
+    "hash": "22ac030ed8ba9d2639adf1132f405ced99bf6b63"
+  },
+  "assignments/2024-《自动化前沿专题》期末论文模板（修正）.doc": {
+    "size": 157184,
+    "time": 1737227289,
+    "hash": "62fe0d8511070d57ea9348a489ff1ad1b49df7bb"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737628193,
+    "hash": "22ac030ed8ba9d2639adf1132f405ced99bf6b63"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737628193,
+    "hash": "22ac030ed8ba9d2639adf1132f405ced99bf6b63"
+  },
+  "readme.toml": {
+    "size": 1937,
+    "time": 1773427891,
+    "hash": "26d87e6ec90f657f323ae731c98fd31e7e234c4f"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737628193,
+    "hash": "22ac030ed8ba9d2639adf1132f405ced99bf6b63"
+  }
+}
